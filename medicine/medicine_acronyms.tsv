@@ -24,11 +24,14 @@ CABG;[Coronary Artery Bypass Graft](https://en.wikipedia.org/wiki/Coronary_arter
 CAD;[Coronary Artery Disease](https://en.wikipedia.org/wiki/Coronary_artery_disease)
 CHF;[Congestive Heart Failure](https://en.wikipedia.org/wiki/Heart_failure)
 CNS;Central Nervous System
-COPD;Chronic Obstructive Pulmonary Disease
+COPD;[Chronic Obstructive Pulmonary Disease](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)
 CPR;Cardiopulmonary Resuscitation
 CSF;Cerebrospinal Fluid
 CVA;Cerebrovascular Accident (stroke)
 D5W;5% Dextrose in Water
+D5;5% Dextrose
+D10;10% Dextrose
+D20;20% Dextrose 
 DKA;Diabetic Ketoacidosis
 DNR;Do Not Resuscitate
 Dx;Diagnosis
@@ -39,7 +42,7 @@ ETOH;Ethanol (alcohol)
 ETT;[Endotracheal Tube](https://en.wikipedia.org/wiki/Tracheal_tube)
 ENT;[Ear, nose, and throat](https://en.wikipedia.org/wiki/Otorhinolaryngology)
 GU;Genitourinary
-GYN;Gynecology (gynecological)
+GYN;Gynecology
 H/A;Headache
 HA;Headache
 HEENT;Head, Eyes, Ears, Nose, Throat
@@ -58,10 +61,10 @@ RLQ;Right Lower Quadrant (of abdomen)
 LUQ;Left Upper Quadrant (of abdomen)
 RUQ;Right Upper Quadrant (of abdomen)
 LMP;Last Menstrual Period
-LOC;Level/Loss of Consciousness
+LOC;Loss/Level of Consciousness
 LR;[Lactated Ringers solution](https://en.wikipedia.org/wiki/Ringer%27s_lactate_solution)
 MI;Myocardial Infarction (heart attack)
-MVC;Motor Vehicle Crash
+MVA;Motor vehicle accident
 N/V/D;Nausea/Vomiting/Diarrhea
 NAD;No Apparent Distress
 NKDA;No Known Drug Allergies
@@ -69,20 +72,23 @@ NS;Normal Saline (fluids)
 PMH;Past Medical History
 PO;[Per os (meds taken by mouth)](https://en.wikipedia.org/wiki/Oral_administration)
 PRN;As needed (Latin "pro re nata")
-PVC;Premature Ventricular Contraction
 Rx;Prescription
 S/P;Status post (following)
+s/p;Status post (following)
+S/p;Status post (following)
 SOB;Shortness of Breath
-SVT;Supraventricular Tachycardia
+SVT;[Supraventricular Tachycardia](https://en.wikipedia.org/wiki/Supraventricular_tachycardia)
 Sx;Symptom
-TIA;Transient Ischemic Attack
+TIA;[Transient Ischemic Attack](https://en.wikipedia.org/wiki/Transient_ischemic_attack)
 URI;Upper Respiratory Infection
 UTI;Urinary Tract Infection
 VF;[Ventricular Fibrillation](https://en.wikipedia.org/wiki/Ventricular_fibrillation)
 WAP;Wandering Atrial Pacemaker
 WNL;Within Normal Limits
+wnl;Within Normal Limits
 LABA;Long-Acting Beta Agonist
 SABA;Short-Acting Beta Agonist
+A1C;[Glycated hemoglobin (measures ~3-month average plasma glucose)](https://en.wikipedia.org/wiki/Glycated_hemoglobin)
 AAOx3;Awake, Alert, and Oriented, times 3 (i.e., to person, place, and time)
 ABX;Antibiotics
 ACEI;Angiotensin-Converting Enzyme Inhibitor(s)
@@ -106,5 +112,361 @@ AVM;Arteriovenous malformation
 AXR;Abdominal x-ray
 KUB;[Kidneys, ureters, and urinary bladder (abdominal xray)](https://en.wikipedia.org/wiki/Kidneys,_ureters,_and_bladder_x-ray)
 Bx;Biopsy
-HLD;Hyperlipidemia
+HLD;[Hyperlipidemia](https://en.wikipedia.org/wiki/Hyperlipidemia)
 EMS;Emergency Medical Services
+BCC;[Basal Cell Carcinoma](https://en.wikipedia.org/wiki/Basal_cell_carcinoma)
+BIS;[Bispectral Index](https://en.wikipedia.org/wiki/Bispectral_index)
+BNP;[Brain natriuretic peptide](https://en.wikipedia.org/wiki/Brain_natriuretic_peptide)
+BRBPR;[Bright red blood per rectum](https://en.wikipedia.org/wiki/Hematochezia)
+BUN;[Blood urea nitrogen](https://en.wikipedia.org/wiki/Blood_urea_nitrogen)
+CAP;[Community-acquired pneumonia](https://en.wikipedia.org/wiki/Community-acquired_pneumonia)
+CAH;[Congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia)
+CBC;[Complete blood count](https://en.wikipedia.org/wiki/Complete_blood_count)
+CCB;[Calcium channel blocker](https://en.wikipedia.org/wiki/Calcium_channel_blocker)
+CFU;[Colony-forming unit (number of bacterial/fungal cells)](https://en.wikipedia.org/wiki/Colony-forming_unit)
+CIDP;[Chronic inflammatory demyelinating polyneuropathy](https://en.wikipedia.org/wiki/Chronic_inflammatory_demyelinating_polyneuropathy)
+CIN;[Cervical intraepithelial neoplasia](https://en.wikipedia.org/wiki/Cervical_intraepithelial_neoplasia)
+CJD;[Creutzfeldt–Jakob disease](https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease)
+CLL;[Chronic lymphocytic leukemia](https://en.wikipedia.org/wiki/Chronic_lymphocytic_leukemia)
+CML;[Chronic myelogenous leukemia](https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia)
+CPAP;[continuous positive airway pressure](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure)
+CRC;[Colorectal cancer](https://en.wikipedia.org/wiki/Colorectal_cancer)
+CRP;[C-reactive protein (measure of inflammation)](https://en.wikipedia.org/wiki/C-reactive_protein)
+CVAT;[Costovertebral angle tenderness](https://en.wikipedia.org/wiki/Costovertebral_angle)
+CXR;[Chest x-ray](https://en.wikipedia.org/wiki/Chest_radiograph)
+DBS;[Deep brain stimulation](https://en.wikipedia.org/wiki/Deep_brain_stimulation)
+D&C;[Dilatation and curettage](https://en.wikipedia.org/wiki/Dilatation_and_curettage)
+DCIS;[Ductal carcinoma in situ](https://en.wikipedia.org/wiki/Ductal_carcinoma)
+DDx;[Differential diagnosis](https://en.wikipedia.org/wiki/Differential_diagnosis)
+DDX;[Differential diagnosis](https://en.wikipedia.org/wiki/Differential_diagnosis)
+ddx;[Differential diagnosis](https://en.wikipedia.org/wiki/Differential_diagnosis)
+DIC;[Disseminated intravascular coagulation](https://en.wikipedia.org/wiki/Disseminated_intravascular_coagulation)
+DLCO;[Diffusing capacity of the lung for carbon monoxide](https://en.wikipedia.org/wiki/DLCO)
+DM1;[Type 1 diabetes mellitus](https://en.wikipedia.org/wiki/Diabetes_mellitus)
+DM2;[Type 2 diabetes mellitus](https://en.wikipedia.org/wiki/Diabetes_mellitus)
+DMARD;[Disease-modifying antirheumatic drug](https://en.wikipedia.org/wiki/Disease-modifying_antirheumatic_drug)
+DNI;[Do not intubate](https://en.wikipedia.org/wiki/Do_not_resuscitate)
+RLE;Right Lower Extremity
+LLE;Left Lower Extremity
+RUE;Right Upper Extremity
+LUE;Left Upper Extremity
+DP;[Dorsalis pedis (foot artery)](https://en.wikipedia.org/wiki/Dorsalis_pedis)
+DRE;[Digital Rectal Examination](https://en.wikipedia.org/wiki/Rectal_examination)
+DSM;[Diagnostic and Statistical Manual of Mental Disorders](Diagnostic and Statistical Manual of Mental Disorders)
+DTR;[Deep tendon reflex](https://en.wikipedia.org/wiki/Reflex#Stretch_reflexes)
+DVT;[Deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis)
+Dz;Disease
+DZ;Disease
+EBRT;External beam radiation therapy
+EBM;Evidence based medicine
+EBV;[Epstein Barr Virus](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus)
+Echo;[Echocardiogram (heart ultrasound)](https://en.wikipedia.org/wiki/Echocardiography)
+echo;[Echocardiogram (heart ultrasound)](https://en.wikipedia.org/wiki/Echocardiography)
+ECLS;[Extracorporeal life support](https://en.wikipedia.org/wiki/Extracorporeal_life_support)
+ECT;[Electroconvulsive therapy](https://en.wikipedia.org/wiki/Electroconvulsive_therapy)
+EF;[Ejection fraction](https://en.wikipedia.org/wiki/Ejection_fraction)
+EGD;[Esophagogastroduodenoscopy](https://en.wikipedia.org/wiki/Esophagogastroduodenoscopy)
+ELISA;[Enzyme-linked immunosorbent assay](https://en.wikipedia.org/wiki/ELISA)
+EMG;[Electromyography (muscle electrical study)](https://en.wikipedia.org/wiki/Electromyography)
+EOM;[Extraocular muscles](https://en.wikipedia.org/wiki/Extraocular_muscles)
+EOMI;[Extraocular movements intact](https://en.wikipedia.org/wiki/Extraocular_muscles)
+EPO;[Erythropoietin](https://en.wikipedia.org/wiki/Erythropoietin)
+ERCP;[Endoscopic retrograde cholangiopancreatography](https://en.wikipedia.org/wiki/Endoscopic_retrograde_cholangiopancreatography)
+ESBL;[Extended-spectrum_beta-lactamase](https://en.wikipedia.org/wiki/Beta-lactamase#Extended-spectrum_beta-lactamase_.28ESBL.29)
+ESR;[Erythrocyte sedimentation rate](https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate)
+ETEC;[Enterotoxigenic Escherichia coli](https://en.wikipedia.org/wiki/Escherichia_coli)
+EVAR;[Endovascular aneurysm repair](https://en.wikipedia.org/wiki/Endovascular_aneurysm_repair)
+Fx;Fracture
+FAST;[Focused assessment with sonography for trauma](https://en.wikipedia.org/wiki/Focused_assessment_with_sonography_for_trauma)
+FEV1;[Forced expiratory volume in 1 second](https://en.wikipedia.org/wiki/Spirometry#Explanation_of_common_test_values_in_FVC_tests)
+FFP;[Fresh frozen plasma](https://en.wikipedia.org/wiki/Fresh_frozen_plasma)
+FNA;[Fine-needle aspiration](https://en.wikipedia.org/wiki/Needle_aspiration_biopsy)
+FNAB;[Fine-needle aspiration biopsy](https://en.wikipedia.org/wiki/Needle_aspiration_biopsy)
+FNAC;[Fine-needle aspiration cytology](https://en.wikipedia.org/wiki/Needle_aspiration_biopsy)
+FOBT;[Fecal occult blood test](https://en.wikipedia.org/wiki/Fecal_occult_blood)
+FROM;[Full range of motion](https://en.wikipedia.org/wiki/Range_of_motion)
+FSH;[Follicle stimulating hormone](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone)
+FTT;[Failure to thrive](https://en.wikipedia.org/wiki/Failure_to_thrive)
+F/U;Follow-up
+F/u;Follow-up
+f/u;Fullow-up
+FVC;[Forced vital capacity (spirometry measure)](https://en.wikipedia.org/wiki/Vital_capacity)
+FWB;Full weight bearing
+GERD;[Gastroesophageal_reflux_disease](https://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease)
+GFR;[Glomerular filtration rate](https://en.wikipedia.org/wiki/Glomerular_filtration_rate)
+GGT;[Gamma glutamyl transferase](https://en.wikipedia.org/wiki/Gamma_glutamyl_transferase)
+GSW;Gunshot wound
+GVHD;[Graft-versus-host disease](https://en.wikipedia.org/wiki/Transplant_rejection)
+GvHD;[Graft-versus-host disease](https://en.wikipedia.org/wiki/Transplant_rejection)
+HAART;[Highly active antiretroviral therapy](https://en.wikipedia.org/wiki/Management_of_HIV/AIDS)
+HAV;[Hepatitis A virus](https://en.wikipedia.org/wiki/Hepatitis_A)
+HBV;[Hepatitis B virus](https://en.wikipedia.org/wiki/Hepatitis_B_virus)
+HCV;[Hepatitis C virus](https://en.wikipedia.org/wiki/Hepatitis_C)
+HCC;[Hepatocellular carcinoma](https://en.wikipedia.org/wiki/Hepatocellular_carcinoma)
+HCTZ;[Hydrochlorothiazide](https://en.wikipedia.org/wiki/Hydrochlorothiazide)
+Hct;Hematocrit(https://en.wikipedia.org/wiki/Hematocrit)
+H&E;[Hematoxylin and eosin, a standard tissue stain](https://en.wikipedia.org/wiki/H%26E_stain)
+HELLP;[Hemolysis, elevated liver enzymes, low platelets syndrome (in pregnancy)](https://en.wikipedia.org/wiki/HELLP_syndrome)
+HIDA;[Scintigraphy of the hepatobiliary tract](https://en.wikipedia.org/wiki/Cholescintigraphy)
+HIT;[Heparin-induced thrombocytopenia](https://en.wikipedia.org/wiki/Heparin-induced_thrombocytopenia)
+HLA;[Human leukocyte antigen, genes regulating immunity](https://en.wikipedia.org/wiki/Human_leukocyte_antigen)
+H/O;History of...
+h/o;History of...
+HNPCC;[Hereditary nonpolyposis colorectal cancer](https://en.wikipedia.org/wiki/Hereditary_nonpolyposis_colorectal_cancer)
+HOCM;[Hypertrophic obstructive cardiomyopathy](https://en.wikipedia.org/wiki/Hypertrophic_obstructive_cardiomyopathy)
+HPI;[History of Present Illness](https://en.wikipedia.org/wiki/History_of_the_present_illness)
+HRT;[Hormone replacement therapy](https://en.wikipedia.org/wiki/Hormone_replacement_therapy)
+HSM;[Hepatosplenomegaly](https://en.wikipedia.org/wiki/Hepatosplenomegaly)
+HUS;[Hemolytic uremic syndrome](https://en.wikipedia.org/wiki/Hemolytic_uremic_syndrome)
+IBD;[Inflammatory bowel disease](https://en.wikipedia.org/wiki/Inflammatory_bowel_disease)
+IBS;[Irritable bowel syndrome](https://en.wikipedia.org/wiki/Irritable_bowel_syndrome)
+ICD;[Implantable cardioverter-defibrillator](https://en.wikipedia.org/wiki/Implantable_cardioverter-defibrillator)
+ICH;[Intracerebral hemorrhage](https://en.wikipedia.org/wiki/Intracerebral_hemorrhage)
+I&D;Incision and drainage (treatment for abscess)
+Ig;[Immunoglobulin (aka antibody)](https://en.wikipedia.org/wiki/Antibody)
+IGF;[Insulin-like growth factor](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)
+IGF1;[Insulin-like growth factor-1](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)
+IGF-1;[Insulin-like growth factor-1](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)
+IMA;[Inferior mesenteric artery](https://en.wikipedia.org/wiki/Inferior_mesenteric_artery)
+INR;[International normalized ratio (measure of coagulation levels)](https://en.wikipedia.org/wiki/Prothrombin_time#International_normalized_ratio)
+IPF;[Idiopathic pulmonary fibrosis](https://en.wikipedia.org/wiki/Idiopathic_pulmonary_fibrosis)
+ITP;[Idiopathic thrombocytopenic purpura](https://en.wikipedia.org/wiki/Idiopathic_thrombocytopenic_purpura)
+IUCD;[Intrauterine contraceptive device](https://en.wikipedia.org/wiki/Intrauterine_device)
+IVDU;Intravenous drug user
+IVIG;[Intravenous immunoglobulin](https://en.wikipedia.org/wiki/Intravenous_immunoglobulin)
+JVD;[Jugular venous distension](https://en.wikipedia.org/wiki/Jugular_venous_pressure#Interpretation)
+JVP;[Jugular venous pressure](https://en.wikipedia.org/wiki/Jugular_venous_pressure)
+LBBB;[Left bundle branch block](https://en.wikipedia.org/wiki/Left_bundle_branch_block)
+LDH;[Lactate dehydrogenase](https://en.wikipedia.org/wiki/Lactate_dehydrogenase)
+LDL;[Low-density lipoprotein](https://en.wikipedia.org/wiki/Low-density_lipoprotein)
+L-DOPA;[Levo-dihydroxyphenylalanine (precursor to dopamine)](https://en.wikipedia.org/wiki/L-DOPA)
+LEEP;[Loop electrical excision procedure (treatment for cervical dysplasia)](https://en.wikipedia.org/wiki/Loop_electrical_excision_procedure)
+LFT;[Liver function test](https://en.wikipedia.org/wiki/Liver_function_tests)
+LGV;[Lymphogranuloma venereum](https://en.wikipedia.org/wiki/Lymphogranuloma_venereum)
+LMWH;[Low-molecular-weight heparin](https://en.wikipedia.org/wiki/Low_molecular_weight_heparin)
+LP;[Lumbar puncture (aka spinal tap)](https://en.wikipedia.org/wiki/Lumbar_puncture)
+LUTS;[Lower urinary tract symptoms](https://en.wikipedia.org/wiki/Lower_urinary_tract_symptoms)
+LVAD;[Left ventricular assist device](https://en.wikipedia.org/wiki/Ventricular_assist_device)
+LVH;[Left ventricular hypertrophy](https://en.wikipedia.org/wiki/Left_ventricular_hypertrophy)
+LVOT;[Left ventricular outflow tract](https://en.wikipedia.org/wiki/Left_ventricular_outflow_tract)
+MAOI;[Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor)
+MAP;[Mean arterial pressure](https://en.wikipedia.org/wiki/Mean_arterial_pressure)
+MCHC;[Mean corpuscular hemoglobin concentration](https://en.wikipedia.org/wiki/Mean_corpuscular_hemoglobin_concentration)
+MCV;[Mean corpuscular volume (average red blood cell size)](https://en.wikipedia.org/wiki/Mean_corpuscular_volume)
+MDS;[Myelodysplastic syndrome](https://en.wikipedia.org/wiki/Myelodysplastic_syndrome)
+MEN1;[Multiple endocrine neoplasia type 1](https://en.wikipedia.org/wiki/Multiple_endocrine_neoplasia)
+MEN2;[Multiple endocrine neoplasia type 2](https://en.wikipedia.org/wiki/Multiple_endocrine_neoplasia)
+MEN2A;[Multiple endocrine neoplasia type 2 A](https://en.wikipedia.org/wiki/Multiple_endocrine_neoplasia)
+MEN2B;[Multiple endocrine neoplasia type 2 B](https://en.wikipedia.org/wiki/Multiple_endocrine_neoplasia)
+Mg;Magnesium
+MGUS;[Monoclonal gammopathy of undetermined significance](https://en.wikipedia.org/wiki/Monoclonal_gammopathy_of_undetermined_significance)
+MIC;[Minimum inhibitory concentration](https://en.wikipedia.org/wiki/Minimum_inhibitory_concentration)
+M&M;Morbidity and mortality (often a case-conference discussion)
+MMR;[Measles, mumps, and rubella combined vaccination](https://en.wikipedia.org/wiki/MMR_vaccine)
+MMSE;[Mini-mental state examination (measure of memory/cognition)](https://en.wikipedia.org/wiki/Mini-mental_state_examination)
+MND;[Motor neuron disease (aka ALS)](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis)
+MPGN;[Membranoproliferative glomerulonephritis](https://en.wikipedia.org/wiki/Membranoproliferative_glomerulonephritis)
+MRA;[Magnetic resonance angiography](https://en.wikipedia.org/wiki/Magnetic_resonance_angiography)
+MRCP;[Magnetic resonance cholangiopancreatography](https://en.wikipedia.org/wiki/Magnetic_resonance_cholangiopancreatography)
+MRSA;[Methicillin-resistant Staphylococcus aureus](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus)
+MSM;Men who have sex with men
+MTBI;Mild traumatic brain injury
+MVP;[Mitral valve prolapse](https://en.wikipedia.org/wiki/Mitral_valve_prolapse)
+NAAT;[Nuclear acid amplification test](https://en.wikipedia.org/wiki/Nucleic_acid_test)
+NAFLD;[Non-alcoholic fatty liver disease](https://en.wikipedia.org/wiki/Non-alcoholic_fatty_liver_disease)
+NASH;[Non-alcoholic steatohepatitis](https://en.wikipedia.org/wiki/Non-alcoholic_fatty_liver_disease)
+NBTE;[Nonbacterial thrombotic endocarditis](https://en.wikipedia.org/wiki/Nonbacterial_thrombotic_endocarditis)
+NCS;[Nerve conduction study](https://en.wikipedia.org/wiki/Nerve_conduction_study)
+NCV;[Nerve conduction velocity](https://en.wikipedia.org/wiki/Nerve_conduction_study)
+NG;[Nasogastric](https://en.wikipedia.org/wiki/Nasogastric_intubation)
+NGT;[Nasogastric tube](https://en.wikipedia.org/wiki/Nasogastric_intubation)
+NHL;[Non-Hodgkin lymphoma](https://en.wikipedia.org/wiki/Non-Hodgkin_lymphoma)
+NIPPV;Nasal intermittent positive pressure ventilation
+NMR;[Nuclear magnetic resonance](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance)
+NNH;[Numbed needed to harm](https://en.wikipedia.org/wiki/Number_needed_to_harm)
+NNT;[Number needed to treat](https://en.wikipedia.org/wiki/Number_needed_to_treat)
+NOS;Not otherwise specified
+NPH;[Normal pressure hydrocephalus](https://en.wikipedia.org/wiki/Normal_pressure_hydrocephalus)
+NPO;Nil per os (nothing by mouth)
+NPPV;Noninvasive positive pressure ventilation
+NPV;[Negative predictive value](https://en.wikipedia.org/wiki/Positive_and_negative_predictive_values)
+PPV;[Positive predictive value](https://en.wikipedia.org/wiki/Positive_and_negative_predictive_values)
+NRB;[Non-rebreather mask](https://en.wikipedia.org/wiki/Non-rebreather_mask)
+NREM;[Non–rapid eye movement (type of sleep)](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+REM;[Rapid eye movement (type of sleep with dreams)](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+NSAID;[Nonsteroidal antiinflammatory drug](https://en.wikipedia.org/wiki/Nonsteroidal_anti-inflammatory_drug)
+NSCLC;[Non–small cell lung carcinoma](https://en.wikipedia.org/wiki/Non-small_cell_lung_carcinoma)
+NSTEMI;[Non-ST-elevation myocardial infarction](https://en.wikipedia.org/wiki/Myocardial_infarction)
+NSVD;Normal spontaneous vaginal delivery
+NYHA;[New York Heart Association (often heart failure classification)](https://en.wikipedia.org/wiki/New_York_Heart_Association_Functional_Classification)
+OCD;[Obsessive-compulsive disorder](https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder)
+OCP;[Oral contraceptive pill](https://en.wikipedia.org/wiki/Oral_contraceptive_pill)
+OHS;[Obesity hypoventilation syndrome](https://en.wikipedia.org/wiki/Obesity_hypoventilation_syndrome)
+O/N;Overnight
+ORIF;[Open reduction internal fixation](https://en.wikipedia.org/wiki/Open_reduction_internal_fixation)
+ORT;[Oral rehydration therapy](https://en.wikipedia.org/wiki/Oral_rehydration_therapy)
+OSA;[Obstructive sleep apnea](https://en.wikipedia.org/wiki/Obstructive_sleep_apnea)
+Osm;Osmolarity
+OTC;[Over-the-counter drug](https://en.wikipedia.org/wiki/Over-the-counter_drug)
+PACU;Post-Anesthesia Care Unit
+PAH;[Pulmonary arterial hypertension](PAH	pulmonary arterial hypertension)
+PBC;[Primary biliary cholangitis](https://en.wikipedia.org/wiki/Primary_biliary_cholangitis)
+PCI;[Percutaneous coronary intervention](https://en.wikipedia.org/wiki/Percutaneous_coronary_intervention)
+PCN;[Penicillin](https://en.wikipedia.org/wiki/Penicillin)
+PCR;[Polymerase chain reaction](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
+PCWP;[Pulmonary capillary wedge pressure](https://en.wikipedia.org/wiki/Pulmonary_capillary_wedge_pressure)
+PEEP;[Positive end expiratory pressure](https://en.wikipedia.org/wiki/Positive_end_expiratory_pressure)
+PEFR;[Peak expiratory flow rate](https://en.wikipedia.org/wiki/Peak_expiratory_flow_rate)
+PEG;[Percutaneous endoscopic gastrostomy](https://en.wikipedia.org/wiki/Percutaneous_endoscopic_gastrostomy)
+PERRL;Pupils equal, round, reactive to light
+PERLA;Pupils equal and reactive to light and accommodation
+PERRLA;Pupils equal, round, reactive to light and accommodation
+PFO;[Patent foramen ovale](https://en.wikipedia.org/wiki/Patent_foramen_ovale)
+GSC;[Glasgow coma scale](https://en.wikipedia.org/wiki/Glasgow_Coma_Scale)
+PICC;[Peripherally inserted central catheter](https://en.wikipedia.org/wiki/Peripherally_inserted_central_catheter)
+PKU;[Phenylketonuria](https://en.wikipedia.org/wiki/Phenylketonuria)
+PLT;[Platelets](https://en.wikipedia.org/wiki/Platelet)
+PMDD;[Premenstrual dysphoric disorder](https://en.wikipedia.org/wiki/Premenstrual_dysphoric_disorder)
+PMI;[Point of maximal impulse](https://en.wikipedia.org/wiki/Apex_beat)
+PMN;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
+PMNs;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
+polys;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
+poly;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
+PONV;Postoperative nausea and vomiting
+PPI;[Proton pump inhibitor](https://en.wikipedia.org/wiki/Proton_pump_inhibitor)
+PPROM;[Preterm premature rupture of membranes](https://en.wikipedia.org/wiki/Premature_rupture_of_membranes)
+PPx;Prophylaxis
+PPX;Prophylaxis
+PTT;[Partial Thromboplastin Time](https://en.wikipedia.org/wiki/Partial_thromboplastin_time)
+PRBC;[Packed red blood cells](https://en.wikipedia.org/wiki/Packed_cells)
+PRBCs;[Packed red blood cells](https://en.wikipedia.org/wiki/Packed_cells)
+pRBC;[Packed red blood cells](https://en.wikipedia.org/wiki/Packed_cells)
+PROM;[Premature rupture of membranes](https://en.wikipedia.org/wiki/Premature_rupture_of_membranes)
+PSA;[Prostate-specific antigen](https://en.wikipedia.org/wiki/Prostate-specific_antigen)
+PSC;[Primary sclerosing cholangitis](https://en.wikipedia.org/wiki/Primary_sclerosing_cholangitis)
+PSGN;[Poststreptococcal glomerulonephritis](https://en.wikipedia.org/wiki/Postinfectious_glomerulonephritis)
+PSVT;[Paroxysmal supraventricular tachycardia](https://en.wikipedia.org/wiki/Paroxysmal_supraventricular_tachycardia)
+PTC;[Percutaneous transhepatic cholangiography](https://en.wikipedia.org/wiki/Percutaneous_transhepatic_cholangiography)
+PTHC;[Percutaneous transhepatic cholangiography](https://en.wikipedia.org/wiki/Percutaneous_transhepatic_cholangiography)
+PTH;[Parathyroid hormone](https://en.wikipedia.org/wiki/Parathyroid_hormone)
+PTx;[Pneumothorax](https://en.wikipedia.org/wiki/Pneumothorax)
+PTX;[Pneumothorax](https://en.wikipedia.org/wiki/Pneumothorax)
+PVC;[Premature ventricular contraction](https://en.wikipedia.org/wiki/Premature_ventricular_contraction)
+PWP;[Pulmonary wedge pressure](https://en.wikipedia.org/wiki/Pulmonary_capillary_wedge_pressure)
+PVD;[Peripheral vascular disease](https://en.wikipedia.org/wiki/Peripheral_vascular_disease)
+QALY;[Quality-adjusted life year](https://en.wikipedia.org/wiki/Quality-adjusted_life_year)
+qd;Every day
+RBBB;[Right bundle branch block](https://en.wikipedia.org/wiki/Right_bundle_branch_block)
+RBC;[Red blood cell/count](https://en.wikipedia.org/wiki/Red_blood_cell)
+RBCs;[Red blood cell/count](https://en.wikipedia.org/wiki/Red_blood_cell)
+RCC;[Renal cell carcinoma](https://en.wikipedia.org/wiki/Renal_cell_carcinoma)
+RCT;[Randomized controlled trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+RDS;[Respiratory distress syndrome](https://en.wikipedia.org/wiki/Respiratory_distress_syndrome_(disambiguation))
+RDW;[Red cell distribution width](https://en.wikipedia.org/wiki/Red_blood_cell_distribution_width)
+Rh;[Rhesus factor](https://en.wikipedia.org/wiki/Rhesus_factor)
+Rhabdo;[Rhabdomyolysis (rapid muscle breakdown)](https://en.wikipedia.org/wiki/Rhabdomyolysis)
+rhabdo;[Rhabdomyolysis (rapid muscle breakdown)](https://en.wikipedia.org/wiki/Rhabdomyolysis)
+RMSF;[Rocky mountain spotted fever](https://en.wikipedia.org/wiki/Rocky_mountain_spotted_fever)
+ROS;[Review of systems](https://en.wikipedia.org/wiki/Review_of_systems)
+ROSC;[Return of spontaneous circulation](https://en.wikipedia.org/wiki/Return_of_spontaneous_circulation)
+RPGN;[Rapidly progressing glomerulonephritis](https://en.wikipedia.org/wiki/Rapidly_progressing_glomerulonephritis)
+RPR;[Rapid plasma reagin (test for Syphilis)](https://en.wikipedia.org/wiki/Rapid_plasma_reagin)
+RSV;[Respiratory syncytial virus](https://en.wikipedia.org/wiki/Human_respiratory_syncytial_virus)
+HRSV;[Respiratory syncytial virus](https://en.wikipedia.org/wiki/Human_respiratory_syncytial_virus)
+RSI;[Rapid sequence induction](https://en.wikipedia.org/wiki/Rapid_sequence_induction)
+RTA;[Renal tubular acidosis](https://en.wikipedia.org/wiki/Renal_tubular_acidosis)
+RVAD;[Right ventricular assist device](https://en.wikipedia.org/wiki/Ventricular_assist_device)
+RVH;[Right ventricular hypertrophy](https://en.wikipedia.org/wiki/Right_ventricular_hypertrophy)
+S1;[First heart sound](https://en.wikipedia.org/wiki/Heart_sounds)
+S2;[Second heart sound](https://en.wikipedia.org/wiki/Heart_sounds)
+S3;[Third heart sound (extra sound)](https://en.wikipedia.org/wiki/Heart_sounds)
+S4;[Fourth heart sound (extra sound)](https://en.wikipedia.org/wiki/Heart_sounds)
+SAAG;[Serum-ascites albumin gradient](https://en.wikipedia.org/wiki/Serum-ascites_albumin_gradient)
+SAH;[Subarachnoid hemorrhage](https://en.wikipedia.org/wiki/Subarachnoid_hemorrhage)
+SARS;[Severe acute respiratory syndrome](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome)
+SBO;[Small bowel obstruction](https://en.wikipedia.org/wiki/Bowel_obstruction)
+SBRT;[Split beam radiation therapy](https://en.wikipedia.org/wiki/Radiation_therapy)
+SCC;[Squamous cell carcinoma](https://en.wikipedia.org/wiki/Squamous_cell_carcinoma)
+SCI;[Spinal cord injury](https://en.wikipedia.org/wiki/Spinal_cord_injury)
+SCID;[Severe combined immunodeficiency](https://en.wikipedia.org/wiki/Severe_combined_immunodeficiency)
+SCIWORA;[Spinal cord injury without radiographic abnormality](https://en.wikipedia.org/wiki/Spinal_cord_injury_without_radiographic_abnormality)
+SCLC;[Small cell lung cancer](https://en.wikipedia.org/wiki/Small_cell_lung_cancer)
+SDH;[Subdural hematoma](https://en.wikipedia.org/wiki/Subdural_hematoma)
+SERM;[Selective estrogen receptor modulators](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator)
+SERMs;[Selective estrogen receptor modulators](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator)
+SGA;[Small for gestational age](https://en.wikipedia.org/wiki/Small_for_gestational_age)
+LGA;[Large for gestational age](https://en.wikipedia.org/wiki/Large_for_gestational_age)
+SHBG;[Sex hormone-binding globulin](https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin)
+SIADH;[Syndrome of inappropriate antidiuretic hormone](https://en.wikipedia.org/wiki/Syndrome_of_inappropriate_antidiuretic_hormone)
+SIBO;[Small intestinal bacterial overgrowth](https://en.wikipedia.org/wiki/Small_intestinal_bacterial_overgrowth)
+SIDS;[Sudden infant death syndrome](https://en.wikipedia.org/wiki/Sudden_infant_death_syndrome)
+SIRS;Systemic inflammatory response syndrome
+SJS;[Stevens–Johnson syndrome](https://en.wikipedia.org/wiki/Stevens%E2%80%93Johnson_syndrome)
+SLNB;[Sentinel lymph node biopsy](https://en.wikipedia.org/wiki/Lymph_node_biopsy)
+SLL;[Small lymphocytic lymphoma (B-cell lymphoma in the lymph nodes)](https://en.wikipedia.org/wiki/B-cell_chronic_lymphocytic_leukemia)
+SMV;[Superior mesenteric vein](https://en.wikipedia.org/wiki/Superior_mesenteric_vein)
+SNF;[Skilled nursing facility](https://en.wikipedia.org/wiki/Nursing_home)
+SNRI;[Serotonin–norepinephrine reuptake inhibitor](https://en.wikipedia.org/wiki/Serotonin%E2%80%93norepinephrine_reuptake_inhibitor)
+SOBOE;Shortness of breath on exertion
+SPECT;[Single-photon emission computed tomography](https://en.wikipedia.org/wiki/Single-photon_emission_computed_tomography)
+SPEP;[Serum protein electrophoresis](https://en.wikipedia.org/wiki/Serum_protein_electrophoresis)
+SQ;[Subcutaneous](https://en.wikipedia.org/wiki/Subcutaneous_injection)
+sq;[Subcutaneous](https://en.wikipedia.org/wiki/Subcutaneous_injection)
+Subq;[Subcutaneous](https://en.wikipedia.org/wiki/Subcutaneous_injection)
+subq;[Subcutaneous](https://en.wikipedia.org/wiki/Subcutaneous_injection)
+SROM;[Spontaneous rupture of membranes](https://en.wikipedia.org/wiki/Rupture_of_membranes)
+SSPE;[Subacute sclerosing panencephalitis](https://en.wikipedia.org/wiki/Subacute_sclerosing_panencephalitis)
+SSRI;[Selective serotonin reuptake inhibitor](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor)
+SSSI;[Skin and skin structure infection](https://en.wikipedia.org/wiki/Skin_and_skin_structure_infection)
+ABSSSI;[Acute bacterial skin and skin structure infection](https://en.wikipedia.org/wiki/Skin_and_skin_structure_infection)
+SSSS;[Staphylococcal scalded skin syndrome](https://en.wikipedia.org/wiki/Staphylococcal_scalded_skin_syndrome)
+SSS;[Sick sinus syndrome](https://en.wikipedia.org/wiki/Sick_sinus_syndrome)
+STEMI;[ST elevation myocardial infarction](https://en.wikipedia.org/wiki/Myocardial_infarction)
+SVC;[Superior vena cava](https://en.wikipedia.org/wiki/Superior_vena_cava)
+IVC;[Inferior vena cava](https://en.wikipedia.org/wiki/Inferior_vena_cava)
+Tx;Treatment
+tx;Treatment
+TAPVR;[Total anomalous pulmonary venous return](https://en.wikipedia.org/wiki/Anomalous_pulmonary_venous_connection)
+TCA;[Tricyclic antidepressants](https://en.wikipedia.org/wiki/Tricyclic_antidepressants)
+TCC;[Transitional cell carcinoma](https://en.wikipedia.org/wiki/Transitional_cell_carcinoma)
+TDaP;Tetanus, diphtheria, and acellular pertussis combined vaccine
+TDAP;Tetanus, diphtheria, and acellular pertussis combined vaccine
+TEE;[Transesophageal echocardiogram](https://en.wikipedia.org/wiki/Transesophageal_echocardiogram)
+TEF;[Tracheoesophageal fistula](https://en.wikipedia.org/wiki/Tracheoesophageal_fistula)
+TENS;[Transcutaneous electrical nerve stimulator](https://en.wikipedia.org/wiki/Transcutaneous_electrical_nerve_stimulator)
+TFT;[Thyroid function test](https://en.wikipedia.org/wiki/Thyroid_function_tests)
+TGA;[Transposition of the great arteries](https://en.wikipedia.org/wiki/Transposition_of_the_great_arteries)
+TIBC;[Total iron-binding capacity](https://en.wikipedia.org/wiki/Total_iron-binding_capacity)
+TIPS;[Transjugular intrahepatic portosystemic shunt](https://en.wikipedia.org/wiki/Transjugular_intrahepatic_portosystemic_shunt)
+TLC;[Total lung capacity](https://en.wikipedia.org/wiki/Total_lung_capacity)
+TMJ;[Temporomandibular joint](https://en.wikipedia.org/wiki/Temporomandibular_joint)
+TNM;[Tumor-nodes-metastases (tumor staging system)](https://en.wikipedia.org/wiki/TNM_staging_system)
+TOF;[Tetralogy of Fallot](https://en.wikipedia.org/wiki/Tetralogy_of_Fallot)
+TPa;[Tissue plasminogen activator](https://en.wikipedia.org/wiki/Tissue_plasminogen_activator)
+TPA;[Tissue plasminogen activator](https://en.wikipedia.org/wiki/Tissue_plasminogen_activator)
+TPN;[Total parenteral nutrition](https://en.wikipedia.org/wiki/Total_parenteral_nutrition)
+TRT;Testosterone replacement therapy
+TRUSP;[Transrectal Ultrasonography of the Prostate](https://en.wikipedia.org/wiki/Transrectal_ultrasonography)
+TSH;[Thyroid stimulating hormone](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone)
+TSI;[Thyroid Stimulating Immunoglobulin](https://en.wikipedia.org/wiki/Thyroid_Stimulating_Immunoglobulin)
+TTN;[Transient tachypnea of the newborn](https://en.wikipedia.org/wiki/Transient_tachypnea_of_the_newborn)
+TTP;[Thrombotic thrombocytopenic purpura](https://en.wikipedia.org/wiki/Thrombotic_thrombocytopenic_purpura)
+UA;[Urinalysis](https://en.wikipedia.org/wiki/Urinalysis)
+UDS;[Urine drug screening](https://en.wikipedia.org/wiki/Drug_test)
+UIP;[Usual interstitial pneumonitis](https://en.wikipedia.org/wiki/Usual_interstitial_pneumonia)
+UOP;Urinary output
+VHL;[Von Hippel–Lindau disease](https://en.wikipedia.org/wiki/Von_Hippel%E2%80%93Lindau_disease)
+V/Q;[Ventilation/perfusion scan](https://en.wikipedia.org/wiki/Ventilation/perfusion_scan)
+VSD;[Ventricular septal defect](https://en.wikipedia.org/wiki/Ventricular_septal_defect)
+VTE;[Venous thromboembolism](https://en.wikipedia.org/wiki/Thrombosis)
+VUR;[Vesicoureteral reflux](https://en.wikipedia.org/wiki/Vesicoureteral_reflux)
+VWF;Von Willebrand factor
+VZIG;Varicella zoster immune globulin
+VZV;[Varicella zoster virus (causes chicken pox, shingles)](https://en.wikipedia.org/wiki/Varicella_zoster_virus)
+VRE;[Vancomycin-resistant enterococcus](https://en.wikipedia.org/wiki/Vancomycin-resistant_enterococcus)
+VRSA;[Vancomycin-resistant Staphylococcus aureus](https://en.wikipedia.org/wiki/Vancomycin-resistant_Staphylococcus_aureus)
+WBC;[White blood cell/count](https://en.wikipedia.org/wiki/White_blood_cell)
+WBCs;[White blood cells](https://en.wikipedia.org/wiki/White_blood_cell)
+WPW;[Wolff–Parkinson–White syndrome](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)
+XRT;[Radiotherapy used in cancer treatment](https://en.wikipedia.org/wiki/Radiation_therapy)
+ZES;[Zollinger–Ellison syndrome (gastrinoma)](https://en.wikipedia.org/wiki/Zollinger%E2%80%93Ellison_syndrome)
