@@ -12,7 +12,7 @@ from pathlib import Path
 
 os.chdir("/Users/amckenz/Documents/github/demedify/")
 subreddit_string = "medicine"
-test = True
+test = False
 keys = pandas.read_table("/Users/amckenz/Desktop/token_reddit_info.tsv", names = ['a', 'b'], sep = ' ')
 acronyms = pandas.read_table(subreddit_string + "/" + subreddit_string + "_acronyms.tsv", sep =';')
 dict_file = subreddit_string + "/" + subreddit_string + "_dict.json"

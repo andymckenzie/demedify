@@ -32,7 +32,7 @@ CVA;Cerebrovascular Accident (stroke)
 D5W;5% Dextrose in Water
 D5;5% Dextrose
 D10;10% Dextrose
-D20;20% Dextrose 
+D20;20% Dextrose
 DKA;Diabetic Ketoacidosis
 DNR;Do Not Resuscitate
 Dx;Diagnosis
@@ -471,3 +471,5 @@ WBCs;[White blood cells](https://en.wikipedia.org/wiki/White_blood_cell)
 WPW;[Wolff–Parkinson–White syndrome](https://en.wikipedia.org/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome)
 XRT;[Radiotherapy used in cancer treatment](https://en.wikipedia.org/wiki/Radiation_therapy)
 ZES;[Zollinger–Ellison syndrome (gastrinoma)](https://en.wikipedia.org/wiki/Zollinger%E2%80%93Ellison_syndrome)
+CVC;[Central venous catheter (aka central line)](https://en.wikipedia.org/wiki/Central_venous_catheter)
+CVP;[Central venous pressure](https://en.wikipedia.org/wiki/Central_venous_pressure)
