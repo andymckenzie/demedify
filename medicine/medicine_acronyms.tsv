@@ -1,0 +1,110 @@
+Phrase;Description
+ESRD;[End-Stage Renal Disease](https://en.wikipedia.org/wiki/Chronic_kidney_disease)
+PCOS;[Polycystic Ovarian Syndrome](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)
+SLE;[Systemic Lupus Erythematosus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus)
+AFIB;[Atrial Fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)
+AAA;[Abdominal Aortic Aneurysm](https://en.wikipedia.org/wiki/Abdominal_aortic_aneurysm)
+ABC;[Airway, Breathing, Circulation](https://en.wikipedia.org/wiki/ABC_(medicine))
+ACLS;[Advanced Cardiac Life Support](https://en.wikipedia.org/wiki/Advanced_cardiac_life_support)
+ECMO;[Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation)
+ID;Infectious Disease
+IR;Interventional Radiology
+PUD;[Peptic Ulcer Disease](https://en.wikipedia.org/wiki/Peptic_ulcer_disease)
+N/V;Nausea/Vomiting
+MDD;[Major Depressive Disorder](https://en.wikipedia.org/wiki/Major_depressive_disorder)
+TMS;[Transcranial Magnetic Stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
+MSOF;[Multisystem Organ Failure](https://en.wikipedia.org/wiki/Multiple_organ_dysfunction_syndrome)
+MODS;[Multiple Organ Dysfunction Syndrome](https://en.wikipedia.org/wiki/Multiple_organ_dysfunction_syndrome)
+AMS;Altered Mental Status
+ASA;Aspirin
+BLS;Basic Life Support
+BP;Blood Pressure
+BVM;[Bag Valve Mask](https://en.wikipedia.org/wiki/Bag_valve_mask)
+CABG;[Coronary Artery Bypass Graft](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)
+CAD;[Coronary Artery Disease](https://en.wikipedia.org/wiki/Coronary_artery_disease)
+CHF;[Congestive Heart Failure](https://en.wikipedia.org/wiki/Heart_failure)
+CNS;Central Nervous System
+COPD;Chronic Obstructive Pulmonary Disease
+CPR;Cardiopulmonary Resuscitation
+CSF;Cerebrospinal Fluid
+CVA;Cerebrovascular Accident (stroke)
+D5W;5% Dextrose in Water
+DKA;Diabetic Ketoacidosis
+DNR;Do Not Resuscitate
+Dx;Diagnosis
+ECG;[Electrocardiogram (aka EKG)](https://en.wikipedia.org/wiki/Electrocardiography)
+EKG;[Electrocardiogram (aka ECG)](https://en.wikipedia.org/wiki/Electrocardiography)
+EEG;[Electroencephalogram](https://en.wikipedia.org/wiki/Electroencephalography)
+ETOH;Ethanol (alcohol)
+ETT;[Endotracheal Tube](https://en.wikipedia.org/wiki/Tracheal_tube)
+ENT;[Ear, nose, and throat](https://en.wikipedia.org/wiki/Otorhinolaryngology)
+GU;Genitourinary
+GYN;Gynecology (gynecological)
+H/A;Headache
+HA;Headache
+HEENT;Head, Eyes, Ears, Nose, Throat
+HR;Heart Rate (usually per minute)
+HTN;Hypertension
+Hx;History
+ICP;Intracranial Pressure
+ICU;Intensive Care Unit
+MICU;Medical Intensive Care Unit
+SICU;Surgical Intensive Care Unit
+PICU;Pediatric Intensive Care Unit
+JVD;Jugular Vein Distension
+L&D;Labor and Delivery
+LLQ;Left Lower Quadrant (of abdomen)
+RLQ;Right Lower Quadrant (of abdomen)
+LUQ;Left Upper Quadrant (of abdomen)
+RUQ;Right Upper Quadrant (of abdomen)
+LMP;Last Menstrual Period
+LOC;Level/Loss of Consciousness
+LR;[Lactated Ringers solution](https://en.wikipedia.org/wiki/Ringer%27s_lactate_solution)
+MI;Myocardial Infarction (heart attack)
+MVC;Motor Vehicle Crash
+N/V/D;Nausea/Vomiting/Diarrhea
+NAD;No Apparent Distress
+NKDA;No Known Drug Allergies
+NS;Normal Saline (fluids)
+PMH;Past Medical History
+PO;[Per os (meds taken by mouth)](https://en.wikipedia.org/wiki/Oral_administration)
+PRN;As needed (Latin "pro re nata")
+PVC;Premature Ventricular Contraction
+Rx;Prescription
+S/P;Status post (following)
+SOB;Shortness of Breath
+SVT;Supraventricular Tachycardia
+Sx;Symptom
+TIA;Transient Ischemic Attack
+URI;Upper Respiratory Infection
+UTI;Urinary Tract Infection
+VF;[Ventricular Fibrillation](https://en.wikipedia.org/wiki/Ventricular_fibrillation)
+WAP;Wandering Atrial Pacemaker
+WNL;Within Normal Limits
+LABA;Long-Acting Beta Agonist
+SABA;Short-Acting Beta Agonist
+AAOx3;Awake, Alert, and Oriented, times 3 (i.e., to person, place, and time)
+ABX;Antibiotics
+ACEI;Angiotensin-Converting Enzyme Inhibitor(s)
+ACh;Acetylcholine
+ACL;[Anterior cruciate ligament](https://en.wikipedia.org/wiki/Anterior_cruciate_ligament)
+ADLs;Activities of daily living
+AED;Automated External Defibrillator or Antiepileptic Drug(s)
+Afib;Atrial Fibrillation
+Ag;Antigen
+Ab;Antibody
+ANS;Autonomic Nervous System
+APKD;Adult Polycystic Kidney Disease
+APGAR;appearance, pulse, grimace, activity, respiration (used to assess newborns)
+ARB;Angiotensin II receptor antagonist
+ARDS;Acute respiratory distress syndrome
+ASD;Atrial septal defect
+ASO;Antistreptolysin-O (anti-strep antibody)
+ATN;Acute tubular necrosis
+AVF;Arteriovenous fistula
+AVM;Arteriovenous malformation
+AXR;Abdominal x-ray
+KUB;[Kidneys, ureters, and urinary bladder (abdominal xray)](https://en.wikipedia.org/wiki/Kidneys,_ureters,_and_bladder_x-ray)
+Bx;Biopsy
+HLD;Hyperlipidemia
+EMS;Emergency Medical Services
