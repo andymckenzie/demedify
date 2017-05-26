@@ -4,7 +4,7 @@ PCOS;[Polycystic Ovarian Syndrome](https://en.wikipedia.org/wiki/Polycystic_ovar
 SLE;[Systemic Lupus Erythematosus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus)
 AFIB;[Atrial Fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)
 AAA;[Abdominal Aortic Aneurysm](https://en.wikipedia.org/wiki/Abdominal_aortic_aneurysm)
-ABC;[Airway, Breathing, Circulation](https://en.wikipedia.org/wiki/ABC_(medicine))
+ABC;Airway, Breathing, Circulation
 ACLS;[Advanced Cardiac Life Support](https://en.wikipedia.org/wiki/Advanced_cardiac_life_support)
 ECMO;[Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation)
 ID;Infectious Disease
@@ -130,7 +130,7 @@ CIN;[Cervical intraepithelial neoplasia](https://en.wikipedia.org/wiki/Cervical_
 CJD;[Creutzfeldt–Jakob disease](https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease)
 CLL;[Chronic lymphocytic leukemia](https://en.wikipedia.org/wiki/Chronic_lymphocytic_leukemia)
 CML;[Chronic myelogenous leukemia](https://en.wikipedia.org/wiki/Chronic_myelogenous_leukemia)
-CPAP;[continuous positive airway pressure](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure)
+CPAP;[Continuous positive airway pressure](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure)
 CRC;[Colorectal cancer](https://en.wikipedia.org/wiki/Colorectal_cancer)
 CRP;[C-reactive protein (measure of inflammation)](https://en.wikipedia.org/wiki/C-reactive_protein)
 CVAT;[Costovertebral angle tenderness](https://en.wikipedia.org/wiki/Costovertebral_angle)
@@ -153,7 +153,7 @@ RUE;Right Upper Extremity
 LUE;Left Upper Extremity
 DP;[Dorsalis pedis (foot artery)](https://en.wikipedia.org/wiki/Dorsalis_pedis)
 DRE;[Digital Rectal Examination](https://en.wikipedia.org/wiki/Rectal_examination)
-DSM;[Diagnostic and Statistical Manual of Mental Disorders](Diagnostic and Statistical Manual of Mental Disorders)
+DSM;[Diagnostic and Statistical Manual of Mental Disorders](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders)
 DTR;[Deep tendon reflex](https://en.wikipedia.org/wiki/Reflex#Stretch_reflexes)
 DVT;[Deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis)
 Dz;Disease
@@ -362,7 +362,7 @@ RBC;[Red blood cell/count](https://en.wikipedia.org/wiki/Red_blood_cell)
 RBCs;[Red blood cell/count](https://en.wikipedia.org/wiki/Red_blood_cell)
 RCC;[Renal cell carcinoma](https://en.wikipedia.org/wiki/Renal_cell_carcinoma)
 RCT;[Randomized controlled trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
-RDS;[Respiratory distress syndrome](https://en.wikipedia.org/wiki/Respiratory_distress_syndrome_(disambiguation))
+RDS;[Respiratory distress syndrome](https://en.wikipedia.org/wiki/Infant_respiratory_distress_syndrome)
 RDW;[Red cell distribution width](https://en.wikipedia.org/wiki/Red_blood_cell_distribution_width)
 Rh;[Rhesus factor](https://en.wikipedia.org/wiki/Rhesus_factor)
 Rhabdo;[Rhabdomyolysis (rapid muscle breakdown)](https://en.wikipedia.org/wiki/Rhabdomyolysis)
