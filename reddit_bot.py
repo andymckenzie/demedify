@@ -10,15 +10,19 @@ from pathlib import Path
 ########
 # setting parameters and loading data
 
-os.chdir("/Users/amckenz/Documents/github/demedify/")
 subreddit_string = "medicine"
 test = False
-keys = pandas.read_table("/Users/amckenz/Desktop/token_reddit_info.tsv", names = ['a', 'b'], sep = ' ')
+server = True
+if not server:
+    os.chdir("/Users/amckenz/Documents/github/demedify/")
+    keys = pandas.read_table("/Users/amckenz/Desktop/token_reddit_info.tsv", names = ['a', 'b'], sep = ' ')
+else:
+    keys = pandas.read_table("token_reddit_info.tsv", names = ['a', 'b'], sep = ' ')
 acronyms = pandas.read_table(subreddit_string + "/" + subreddit_string + "_acronyms.tsv", sep =';')
 dict_file = subreddit_string + "/" + subreddit_string + "_dict.json"
 thread_limit = 100
 
-reddit = praw.Reddit(user_agent='Demedify v0.1',
+reddit = praw.Reddit(user_agent='Demedify v0.2',
                   client_id=keys.ix[keys['a'] == "client_id", 'b'].item(),
                   client_secret=keys.ix[keys['a'] == "client_secret", 'b'].item(),
                   username=keys.ix[keys['a'] == "username", 'b'].item(),
@@ -77,36 +81,41 @@ def create_comment_table(acronyms_present_list):
 while True:
     active_threads_ids = list(active_threads.keys())
     for submission in subreddit.new(limit = thread_limit):
-        print(submission.title)
-        thread_text = get_all_thread_text(submission)
-        acronyms_present_list = []
-        for word in acronym_list:
-            if(string_found(word, thread_text)):
-                acronyms_present_list.append(word)
-        if submission.id not in active_threads and len(acronyms_present_list) > 0:
-            table = create_comment_table(acronyms_present_list)
-            print(table)
-            if not test:
-                comment = submission.reply(table)
-                active_threads[submission.id] = [comment.id, acronyms_present_list]
-                with open(my_file, 'w') as fp:
-                    json.dump(active_threads, fp)
-                # active_threads[submission.id] = ["test", acronyms_present_list]
-                time.sleep(600) #praw likes it when i sleep for 9 minutes between posting new comments
-        if submission.id in active_threads:
-            #compare the current list of terms found for this submission to the one in the corresponding dictionary entry
-            #if there are new acronyms present, then update the comment
-            if set(active_threads[submission.id][1]) != set(acronyms_present_list):
-                #update the table based on the acronyms now present
+        try:
+            print(submission.title)
+            thread_text = get_all_thread_text(submission)
+            acronyms_present_list = []
+            for word in acronym_list:
+                if(string_found(word, thread_text)):
+                    acronyms_present_list.append(word)
+            if submission.id not in active_threads and len(acronyms_present_list) > 0:
                 table = create_comment_table(acronyms_present_list)
-                print("updating...")
                 print(table)
                 if not test:
-                    #retrieve and then edit the comment to add the new table
-                    comment = reddit.comment(active_threads[submission.id][0])
-                    comment = comment.edit(table)
-                    #update the dictionary with the new list of acronyms
+                    comment = submission.reply(table)
                     active_threads[submission.id] = [comment.id, acronyms_present_list]
                     with open(my_file, 'w') as fp:
                         json.dump(active_threads, fp)
+                    # active_threads[submission.id] = ["test", acronyms_present_list]
+                    time.sleep(600) #praw likes it when i sleep for 9 minutes between posting new comments
+            if submission.id in active_threads:
+                #compare the current list of terms found for this submission to the one in the corresponding dictionary entry
+                #if there are new acronyms present, then update the comment
+                if set(active_threads[submission.id][1]) != set(acronyms_present_list):
+                    #update the table based on the acronyms now present
+                    table = create_comment_table(acronyms_present_list)
+                    print("updating...")
+                    print(table)
+                    if not test:
+                        #retrieve and then edit the comment to add the new table
+                        comment = reddit.comment(active_threads[submission.id][0])
+                        comment = comment.edit(table)
+                        #update the dictionary with the new list of acronyms
+                        active_threads[submission.id] = [comment.id, acronyms_present_list]
+                        with open(my_file, 'w') as fp:
+                            json.dump(active_threads, fp)
+        except KeyboardInterrupt:
+            raise
+        except:
+            pass
         time.sleep(5)
