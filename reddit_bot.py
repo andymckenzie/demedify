@@ -67,7 +67,7 @@ def get_all_thread_text(submission):
 def create_comment_table(acronyms_present_list):
     list(acronyms.index)
     acronyms_include = []
-    message = "Acroynm|Expansion" + "\n" + ":- |:- " + "\n"
+    message = "Acronym|Expansion" + "\n" + ":- |:- " + "\n"
     for i in acronyms_present_list:
         tmp_message = acronyms.ix[acronym_list.index(i), "Phrase"] + "|" + acronyms.ix[acronym_list.index(i), "Description"] + "\n"
         message = message + tmp_message
