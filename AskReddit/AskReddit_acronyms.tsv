@@ -25,6 +25,7 @@ CAD;[Coronary Artery Disease](https://en.wikipedia.org/wiki/Coronary_artery_dise
 CHF;[Congestive Heart Failure](https://en.wikipedia.org/wiki/Heart_failure)
 CNS;Central Nervous System
 COPD;[Chronic Obstructive Pulmonary Disease](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)
+CPR;[Cardiopulmonary Resuscitation](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation)
 CSF;[Cerebrospinal Fluid](https://en.wikipedia.org/wiki/Cerebrospinal_fluid)
 CVA;[Cerebrovascular Accident (stroke)](https://en.wikipedia.org/wiki/Stroke)
 D5W;5% Dextrose in Water
@@ -335,7 +336,7 @@ PMI;[Point of maximal impulse](https://en.wikipedia.org/wiki/Apex_beat)
 PMN;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
 PMNs;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
 polys;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
-poly count;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
+poly;[Polymorphonuclear leukocytes (aka neutrophils)](https://en.wikipedia.org/wiki/Neutrophil_granulocyte)
 PONV;Postoperative nausea and vomiting
 PPI;[Proton pump inhibitor](https://en.wikipedia.org/wiki/Proton_pump_inhibitor)
 PPROM;[Preterm premature rupture of membranes](https://en.wikipedia.org/wiki/Premature_rupture_of_membranes)

@@ -10,9 +10,9 @@ from pathlib import Path
 ########
 # setting parameters and loading data
 
-subreddit_string = "medicine"
-test = False
-server = True
+subreddit_string = "AskReddit"
+test = True
+server = False
 if not server:
     os.chdir("/Users/amckenz/Documents/github/demedify/")
     keys = pandas.read_table("/Users/amckenz/Desktop/token_reddit_info.tsv", names = ['a', 'b'], sep = ' ')
@@ -80,7 +80,7 @@ def create_comment_table(acronyms_present_list):
 
 while True:
     active_threads_ids = list(active_threads.keys())
-    for submission in subreddit.new(limit = thread_limit):
+    for submission in subreddit.top(limit = thread_limit):
         try:
             print(submission.title)
             thread_text = get_all_thread_text(submission)
