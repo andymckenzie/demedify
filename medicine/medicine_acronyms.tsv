@@ -4,11 +4,11 @@ PCOS;[Polycystic Ovarian Syndrome](https://en.wikipedia.org/wiki/Polycystic_ovar
 SLE;[Systemic Lupus Erythematosus](https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus)
 AFIB;[Atrial Fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)
 AAA;[Abdominal Aortic Aneurysm](https://en.wikipedia.org/wiki/Abdominal_aortic_aneurysm)
-ABC;Airway, Breathing, Circulation
+ABC;[Airway, Breathing, Circulation](goo.gl/9A7dxR)
 ACLS;[Advanced Cardiac Life Support](https://en.wikipedia.org/wiki/Advanced_cardiac_life_support)
 ECMO;[Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation)
-ID;Infectious Disease
-IR;Interventional Radiology
+ID;[Infectious Disease](goo.gl/QY7E8w)
+IR;[Interventional Radiology](https://en.wikipedia.org/wiki/Interventional_radiology)
 PUD;[Peptic Ulcer Disease](https://en.wikipedia.org/wiki/Peptic_ulcer_disease)
 N/V;Nausea/Vomiting
 MDD;[Major Depressive Disorder](https://en.wikipedia.org/wiki/Major_depressive_disorder)
@@ -17,23 +17,25 @@ MSOF;[Multisystem Organ Failure](https://en.wikipedia.org/wiki/Multiple_organ_dy
 MODS;[Multiple Organ Dysfunction Syndrome](https://en.wikipedia.org/wiki/Multiple_organ_dysfunction_syndrome)
 AMS;Altered Mental Status
 ASA;Aspirin
-BLS;Basic Life Support
-BP;Blood Pressure
+BLS;[Basic Life Support](https://en.wikipedia.org/wiki/Basic_life_support)
+BP;[Blood Pressure](https://en.wikipedia.org/wiki/Blood_pressure)
 BVM;[Bag Valve Mask](https://en.wikipedia.org/wiki/Bag_valve_mask)
 CABG;[Coronary Artery Bypass Graft](https://en.wikipedia.org/wiki/Coronary_artery_bypass_surgery)
 CAD;[Coronary Artery Disease](https://en.wikipedia.org/wiki/Coronary_artery_disease)
 CHF;[Congestive Heart Failure](https://en.wikipedia.org/wiki/Heart_failure)
 CNS;Central Nervous System
 COPD;[Chronic Obstructive Pulmonary Disease](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)
-CPR;Cardiopulmonary Resuscitation
-CSF;Cerebrospinal Fluid
-CVA;Cerebrovascular Accident (stroke)
+CPR;[Cardiopulmonary Resuscitation](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation)
+CSF;[Cerebrospinal Fluid](https://en.wikipedia.org/wiki/Cerebrospinal_fluid)
+CVA;[Cerebrovascular Accident (stroke)](https://en.wikipedia.org/wiki/Stroke)
 D5W;5% Dextrose in Water
+D10W;10% Dextrose in Water
+D20W;20% Dextrose in Water
 D5;5% Dextrose
 D10;10% Dextrose
 D20;20% Dextrose
-DKA;Diabetic Ketoacidosis
-DNR;Do Not Resuscitate
+DKA;[Diabetic Ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)
+DNR;[Do Not Resuscitate](https://en.wikipedia.org/wiki/Do_not_resuscitate)
 Dx;Diagnosis
 ECG;[Electrocardiogram (aka EKG)](https://en.wikipedia.org/wiki/Electrocardiography)
 EKG;[Electrocardiogram (aka ECG)](https://en.wikipedia.org/wiki/Electrocardiography)
@@ -42,19 +44,19 @@ ETOH;Ethanol (alcohol)
 ETT;[Endotracheal Tube](https://en.wikipedia.org/wiki/Tracheal_tube)
 ENT;[Ear, nose, and throat](https://en.wikipedia.org/wiki/Otorhinolaryngology)
 GU;Genitourinary
-GYN;Gynecology
+GYN;[Gynecology](https://en.wikipedia.org/wiki/Gynaecology)
 H/A;Headache
 HA;Headache
-HEENT;Head, Eyes, Ears, Nose, Throat
+HEENT;[Head, Eyes, Ears, Nose, Throat](https://en.wikipedia.org/wiki/Otorhinolaryngology)
 HR;Heart Rate (usually per minute)
 HTN;Hypertension
 Hx;History
-ICP;Intracranial Pressure
-ICU;Intensive Care Unit
+ICP;[Intracranial Pressure](https://en.wikipedia.org/wiki/Intracranial_pressure)
+ICU;[Intensive Care Unit](https://en.wikipedia.org/wiki/Intensive_care_unit)
 MICU;Medical Intensive Care Unit
 SICU;Surgical Intensive Care Unit
 PICU;Pediatric Intensive Care Unit
-JVD;Jugular Vein Distension
+JVD;Jugular Vein Distention
 L&D;Labor and Delivery
 LLQ;Left Lower Quadrant (of abdomen)
 RLQ;Right Lower Quadrant (of abdomen)
@@ -86,8 +88,10 @@ VF;[Ventricular Fibrillation](https://en.wikipedia.org/wiki/Ventricular_fibrilla
 WAP;Wandering Atrial Pacemaker
 WNL;Within Normal Limits
 wnl;Within Normal Limits
-LABA;Long-Acting Beta Agonist
-SABA;Short-Acting Beta Agonist
+LABA;[Long-Acting Beta Agonist](https://en.wikipedia.org/wiki/Long-acting_beta-adrenoceptor_agonist)
+SABA;[Short-Acting Beta Agonist](https://en.wikipedia.org/wiki/Beta2-adrenergic_agonist)
+LAMA;[Long-Acting Muscarinic Agonist](https://en.wikipedia.org/wiki/Muscarinic_antagonist)
+SAMA;[Short-Acting Muscarinic Agonist]((https://en.wikipedia.org/wiki/Muscarinic_antagonist))
 A1C;[Glycated hemoglobin (measures ~3-month average plasma glucose)](https://en.wikipedia.org/wiki/Glycated_hemoglobin)
 AAOx3;Awake, Alert, and Oriented, times 3 (i.e., to person, place, and time)
 ABX;Antibiotics
@@ -112,6 +116,7 @@ AVM;Arteriovenous malformation
 AXR;Abdominal x-ray
 KUB;[Kidneys, ureters, and urinary bladder (abdominal xray)](https://en.wikipedia.org/wiki/Kidneys,_ureters,_and_bladder_x-ray)
 Bx;Biopsy
+bx;Biopsy
 HLD;[Hyperlipidemia](https://en.wikipedia.org/wiki/Hyperlipidemia)
 EMS;Emergency Medical Services
 BCC;[Basal Cell Carcinoma](https://en.wikipedia.org/wiki/Basal_cell_carcinoma)
@@ -482,3 +487,12 @@ ICD10;[International Statistical Classification of Diseases v. 10](https://en.wi
 MFM;[Maternal-fetal medicine](https://en.wikipedia.org/wiki/Maternal–fetal_medicine)
 IABP;[Intra-aortic balloon pump](https://en.wikipedia.org/wiki/Intra-aortic_balloon_pump)
 VAD;[Ventricular assist device](https://en.wikipedia.org/wiki/Ventricular_assist_device)
+DEA;[Drug Enforcement Administration](https://en.wikipedia.org/wiki/Drug_Enforcement_Administration)
+HAGMA;[High anion gap metabolic acidosis](https://en.wikipedia.org/wiki/High_anion_gap_metabolic_acidosis)
+on HD;On [hemodialysis](https://en.wikipedia.org/wiki/Hemodialysis)
+TID;Three times a day (Latin: ter in die)
+BID;Two times a day (Latin: bis in die)
+QID;Four times a day (Latin: quater in die)
+RRR;Regular Rate and Rhythm
+CMP;[Comprehensive metabolic panel](https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel)
+ABG;[Arterial Blood Gas](https://en.wikipedia.org/wiki/Arterial_blood_gas)
